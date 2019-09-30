@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.niit.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="10"
+8-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="10" />
+9-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:7:5-54:19
+12        android:debuggable="true"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:8:9-45
+14        android:label="@string/app_name" >
+14-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:9:9-41
+15        <activity
+15-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:10:9-18:20
+16            android:name="com.niit.android.LayoutSampleActivity"
+16-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:11:13-49
+17            android:label="@string/app_name" >
+17-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:12:13-45
+18            <intent-filter>
+18-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:13:13-17:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+19-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:16:17-77
+21-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:16:27-74
+22            </intent-filter>
+23        </activity>
+24        <activity
+24-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:19:9-25:20
+25            android:name="com.niit.android.FillParentActivity"
+25-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:20:13-47
+26            android:label="@string/app_name" >
+26-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:21:13-45
+27            <intent-filter>
+27-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:22:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+28-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:26:9-32:20
+32            android:name="com.niit.android.WrapContentActivity"
+32-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:27:13-48
+33            android:label="@string/app_name" >
+33-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:28:13-45
+34            <intent-filter>
+34-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:22:13-24:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+35-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:33:9-39:20
+39            android:name="com.niit.android.WeightActivity"
+39-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:34:13-43
+40            android:label="@string/app_name" >
+40-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:35:13-45
+41            <intent-filter>
+41-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:22:13-24:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+42-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:40:9-46:20
+46            android:name="com.niit.android.GravityActivity"
+46-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:41:13-44
+47            android:label="@string/app_name" >
+47-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:42:13-45
+48            <intent-filter>
+48-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:22:13-24:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+49-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:47:9-53:20
+53            android:name="com.niit.android.PaddingActivity"
+53-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:48:13-44
+54            android:label="@string/app_name" >
+54-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:49:13-45
+55            <intent-filter>
+55-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:22:13-24:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:17-69
+56-->C:\Maxwork\Educational activities\Android\Lectures\3. Resources & UI\LayoutAttributes\app\src\main\AndroidManifest.xml:14:25-66
+57            </intent-filter>
+58        </activity>
+59    </application>
+60
+61</manifest>

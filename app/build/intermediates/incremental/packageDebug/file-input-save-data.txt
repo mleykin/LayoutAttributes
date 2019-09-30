@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Oct 09 11:34:11 MSK 2018
+2.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\gravity.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fill_parent.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\wrap_content.xml
+5.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main2.xml
+4.set=DEX
+6.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\padding.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\weight.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\LayoutAttributes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
